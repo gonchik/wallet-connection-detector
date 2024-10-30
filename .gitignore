@@ -1,0 +1,7 @@
+secret
+.idea
+venv
+*.log
+*.pyc
+*.txt
+*.json
